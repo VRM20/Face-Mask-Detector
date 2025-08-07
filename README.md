@@ -23,21 +23,6 @@ A real-time face mask detection system built with OpenCV, TensorFlow, and a pret
 
 ---
 
-## 📁 Directory Structure
-
-Face-mask-detector/
-│
-├── model/
-│   └── mask_detector.h5           # Pretrained face mask detection model
-│
-├── mask-detector.py              # Main script for real-time mask detection
-├── requirements.txt              # Python dependencies
-├── README.md                     # Project documentation
-├── .gitignore                    # Git ignored files
-
-
----
-
 ## 📦 Installation
 
 1. **Clone the repository**
