@@ -27,12 +27,13 @@ A real-time face mask detection system built with OpenCV, TensorFlow, and a pret
 
 Face-mask-detector/
 │
-├── mask-detector.py # Main app
 ├── model/
-│ └── mask_detector.h5 # Pretrained mask classifier
-├── haarcascade_frontalface_default.xml # Haar cascade for face detection
-├── requirements.txt
-└── README.md
+│   └── mask_detector.h5           # Pretrained face mask detection model
+│
+├── mask-detector.py              # Main script for real-time mask detection
+├── requirements.txt              # Python dependencies
+├── README.md                     # Project documentation
+├── .gitignore                    # Git ignored files
 
 
 ---
