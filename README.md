@@ -4,13 +4,6 @@ A real-time face mask detection system built with OpenCV, TensorFlow, and a pret
 
 ---
 
-## 📸 Demo
-
-![demo](https://user-images.githubusercontent.com/your-gif-demo.gif)  
-*Detecting face masks in real time using webcam*
-
----
-
 ## 🚀 Features
 
 - 🎥 Live video stream from webcam
